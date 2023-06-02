@@ -54,8 +54,8 @@ light: #a53006
 dark: #a53006
 
 -- ftd.color cta-primary-hover-:
-light: #8c2702
-dark: #8c2702
+light: #00FF8E 
+dark: #00FF8E 
 
 -- ftd.color cta-primary-pressed-:
 light: #611c03
